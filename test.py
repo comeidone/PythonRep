@@ -8,7 +8,7 @@ def main ():
     writer.write(req.text)
     writer.close
 
-    print("WRITE!")
+    print("OK WRITE!")
 
 if __name__ == "__main__":
     main()
